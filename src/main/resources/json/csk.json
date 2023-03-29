@@ -1,0 +1,67 @@
+[
+  {
+
+    "name": "Ruturaj Gaikwad",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+
+    "name": "Devon Convay",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+
+    "name": "Moen Ali",
+    "teamId": null,
+    "type": "ALLROUNDER"
+  },
+  {
+
+    "name": "Ambati Rayudu",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+
+    "name": "MS Dhoni",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+
+    "name": "Ravindra Jadeja",
+    "teamId": null,
+    "type": "ALLROUNDER"
+  },
+  {
+
+    "name": "Ben Stokes",
+    "teamId": null,
+    "type": "ALLROUNDER"
+  },
+  {
+
+    "name": "Deepak Chahar",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+
+    "name": "Mukesh Chowdhary",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+
+    "name": "Dwaine Pretorius",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "teamId": null,
+    "type": "BALLER"
+  }
+]

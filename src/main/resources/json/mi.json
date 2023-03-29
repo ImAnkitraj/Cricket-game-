@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Ishan Kishan",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+    "name": "Rohit Sharma",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+    "name": "Cameron Green",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+    "name": "Tilak Verma",
+    "teamId": null,
+    "type": "BATSMAN"
+  },
+  {
+    "name": "Tim David",
+    "teamId": null,
+    "type": "ALLROUNDER"
+  },
+  {
+    "name": "Ramandeep Singh",
+    "teamId": null,
+    "type": "ALLROUNDER"
+  },
+  {
+    "name": "Jofra Archer",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+    "name": "Piyush Chawla",
+    "teamId": null,
+    "type": "BALLER"
+  },
+  {
+    "name": "Jhye Richardson",
+    "teamId": null,
+    "type": "BALLER"
+  }
+]

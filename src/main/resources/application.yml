@@ -1,0 +1,34 @@
+spring:
+  sql:
+    init:
+      mode: always
+  datasource:
+
+    url: jdbc:mysql://localhost:3306/ai_cricket
+    username: root
+    password: 2019ugcs001
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+#        generate_statistics: true
+        format_sql: true
+#        connection:
+#          isolation: 2  #Read committed
+
+logging:
+  level:
+    org:
+#      hibernate:
+#        stat: debug
+#        type: trace
+
+server:
+  port: 8080
+  servlet:
+    context-path: /api/v1
+
+
